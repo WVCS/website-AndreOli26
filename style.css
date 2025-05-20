@@ -1,3 +1,18 @@
-body {
+body{
+  background: #49516F;
+}
 
+h2{
+  
+  color: #CFD2CD;
+  text-decoration: underline dashed 14px ;
+  letter-spacing: 3px;
+  word-spacing: 24px;
+  text-shadow: 4px 4px #DF2935;
+  
+}
+
+img: hover {
+  width: 500px;
+  border-radius: 60%;
 }
