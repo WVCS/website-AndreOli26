@@ -1,5 +1,5 @@
 body{
-  background: #49516F;
+  background: #14248A;
 }
 
 h2{
@@ -15,4 +15,28 @@ h2{
 img: hover {
   width: 500px;
   border-radius: 60%;
+}
+
+nav{
+  list-style-type: none;
+  width: 100vw;
+  background-color: #AD343E;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+li a {
+  color: black;
+  font-style: Times New Roman;
+  font-weight: bold;
+  text-decoration: none;
+  display: block;
+  padding: 17px 203px;
+  float: left;
+}
+
+li a:hover{
+  background-color: #BBE6E4;
+    color: #141414;
 }
